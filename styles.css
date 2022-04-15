@@ -1,0 +1,204 @@
+@font-face {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 300;
+    src: url(https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0pg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/montserrat/v23/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;} 
+    @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://fonts.gstatic.com/s/montserrat/v23/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+    @font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 300;
+    font-stretch: 100%;
+    src: url(https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAewA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-stretch: 100%;
+    src: url(https://fonts.gstatic.com/s/opensans/v28/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: 100%;
+    src: url(https://fonts.gstatic.com/s/opensans/v28/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  h1 {
+    font-family: Monstserrat;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    background: #023047;
+    border-top: #ffb703 solid 10px;
+    border-bottom: #ffb703 solid 10px; 
+    padding: 25px;
+}  
+
+h2{
+ font-family: Montserrat;
+ font-size: 30px;
+ text-align: center;
+ color: #023047;
+ text-decoration: underline; 
+}
+
+.skyblue{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight:bolder;
+    color: white;
+    text-align: center;
+    background-color: #8ecae6; 
+    width: 22%;
+    margin: 50px auto;
+    display: inline-block;
+    margin-left: 17%; 
+
+}
+
+.bubblegumblue{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight:bolder;
+    color: white;
+    text-align: center;
+    background-color: #129ebc; 
+    width: 22%;
+    margin: 50px auto;
+    display: inline-block;
+}
+
+.heroesblue{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight:bolder;
+    color: white;
+    text-align: center;
+    background-color: #023047;
+    width: 22%;
+    display: inline-block;
+}
+
+.yellow{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight:bolder;
+    color: white;
+    text-align: center;
+    background-color: #ffb703;
+    width: 22%;
+    margin: 50px auto;
+    margin-left: 25%;
+    display: inline-block;
+} 
+
+.pumpkinorange{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight:bolder;
+    color: white;
+    text-align: center;
+    background-color: #fb8500;
+    width: 27%;
+    margin: 50px auto;
+    display: inline-block;
+} 
+
+p{
+    text-align: center;
+}
+#titleopensans{
+    font-family: 'Open Sans';
+}
+
+#normalopensans{
+    font-family: 'Open Sans';
+    
+}
+
+#italicopensans{
+    font-family: 'Open Sans';
+    font-style: italic;
+}
+
+#boldopensans{
+    font-family: 'Open Sans';
+    font-weight: 900;
+} 
+
+#titlemontserrat{
+    font-family: 'Montserrat';
+}
+#normalmontserrat{
+font-family: 'Montserrat';
+}
+
+#italicmontserrat{
+    font-family: 'Montserrat';
+    font-style: italic;
+}
+#boldmontserrat{
+    font-family: 'Montserrat';
+    font-weight: 900;
+} 
+
+#headings{
+    font-family: 'Montserrat';
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.details{
+    font-family: 'Open Sans';
+    text-align: justify;
+    margin-left: 42%;
+    font-weight: 600;
+
+}
+
+#subheadings{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#paragraphs{
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 300;
+}
+
+footer{
+    background-color: #023047;
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    font-weight: 500;
+    border-top: #ffb703 solid 10px;
+    border-bottom: #ffb703 solid 10px; 
+    text-align: justify; 
+    font-style: italic;
+    padding: 13px;
+} 
+  
+    
+ 
